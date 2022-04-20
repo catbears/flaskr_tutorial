@@ -9,3 +9,8 @@ PS:> $env:FLASK_APP = "flaskr"<br>
 PS:> $env:FLASK_ENV = "development"<br>
 PS:> flask run
 </code>
+
+## Tests
+Written and ready to go.
+
+To run the test, flaskr needs to be installed - which I skipped on purpose.
